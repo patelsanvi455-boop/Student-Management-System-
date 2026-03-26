@@ -22,7 +22,8 @@ It manages student details like Roll Number, Name, and Marks.
 - Search Functionality is used to find students
 
 4. Implementation / Source Code
-
+   The project uses C++ classes and a menu-driven program.
+   You can see the full source code 
 
 5.Conclusion 
 This is a project of Student Management System in C++.
