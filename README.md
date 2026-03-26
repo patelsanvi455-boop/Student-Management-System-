@@ -5,8 +5,8 @@ Student Management System Project in C++
 Student Management System
 
 1. Introduction
-This is a C++ Student Management System project of C++.
-It manages student details like Roll Number, Name, and Marks.
+- This is a C++ Student Management System project of C++.
+- It manages student details like Roll Number, Name, and Marks.
 
 2. Objectives
 - Stores Student Details 
@@ -22,9 +22,9 @@ It manages student details like Roll Number, Name, and Marks.
 - Search Functionality is used to find students
 
 4. Implementation / Source Code
-   The project uses C++ classes and a menu-driven program.
-   You can see the full source code 
+- The project uses C++ classes and a menu-driven program.
+- You can see the full source code Student Management.cpp
 
 5.Conclusion 
-This is a project of Student Management System in C++.
-It helps to understand Class and Object with OOPs,Arrays and Menu Driven Programs in C++.
+- This is a project of Student Management System in C++.
+- It helps to understand Class and Object with OOPs,Arrays and Menu Driven Programs in C++.
